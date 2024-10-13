@@ -34,7 +34,7 @@
 
 <!-- STACK -->
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and tools</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0 auto; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45px" alt="Python">
     <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/13d22895e5cc62d12750760f853efa5f29e33baa/images/julia-dots.svg" width="45px" alt="Julia">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="45px" alt="R">
