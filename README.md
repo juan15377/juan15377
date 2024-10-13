@@ -48,13 +48,13 @@
 </div>
 
 <br>
-<h3 align="center">Libraries and frameworks</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Libraries and frameworks</h3>
 <p align="center">
-  <img src="https://docs.makie.org/stable/logo.svg" width="60px" alt="Makie">
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="60px" alt="TensorFlow">
+  <img src="https://docs.makie.org/stable/logo.svg" width="45px" alt="Makie">
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45px" alt="TensorFlow">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 </p>
 
