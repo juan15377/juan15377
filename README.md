@@ -49,7 +49,7 @@
 
 <br>
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Libraries and frameworks</h3>
-<p align="center">
+<p align="left">
   <img src="https://docs.makie.org/stable/logo.svg" width="45px" alt="Makie">
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45px" alt="TensorFlow">
   <img src="https://raw.githubusercontent.com/numpy/numpy/83c34d57e26e25f8ec69995bc2228f07ff21efab/branding/logo/logomark/numpylogoicon.svg" width="45px" alt="Numpy"> 
