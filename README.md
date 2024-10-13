@@ -17,7 +17,7 @@
 <!-- Imagen decorativa de Github -->
 <img width="40%" align="right" alt="GitHub Header" src="https://julialang.org/assets/infra/onlinestats.gif" />
 
-<ul style="list-style-type: none; padding: 0;">
+<ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; align-items: center;">
   <li>🔭 I’m currently working on: Soy Estudiante</li>
   <li>🌱 I’m currently learning: Python, Julia, and Machine Learning</li>
   <li>👯 I’m looking to collaborate on: Projects</li>
@@ -54,15 +54,12 @@
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="60px" alt="TensorFlow">
 </p>
 
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adampithenwala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/_._.adam._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="30" width="40" /></a>
