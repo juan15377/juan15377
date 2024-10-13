@@ -15,7 +15,7 @@
 <h2> About Me </h2>
 
 <!-- Imagen decorativa de Github -->
-<img width="40%" align="right" alt="GitHub Header" src="https://julialang.org/assets/infra/onlinestats.gif" />
+
 
 <ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; align-items: center;">
   <li>🔭 I’m currently working on: Soy Estudiante</li>
@@ -28,7 +28,7 @@
 <!-- Animación de texto -->
 <p align="center">
   <a href="https://julialang.org/assets/infra/onlinestats.gif">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Actuary;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+;Data+Science;Actuary;programming;Math;Statistics..<3" alt="Typing SVG">
   </a>
 </p>
 
@@ -52,11 +52,20 @@
 <p align="center">
   <img src="https://docs.makie.org/stable/logo.svg" width="45px" alt="Makie">
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45px" alt="TensorFlow">
+  <img src="https://raw.githubusercontent.com/numpy/numpy/83c34d57e26e25f8ec69995bc2228f07ff21efab/branding/logo/logomark/numpylogoicon.svg" width="45px" alt="Numpy"> 
+  <img src="https://avatars.githubusercontent.com/u/26261527?s=48&v=4" width="45px" alt="Turing">
+  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="45px" alt="Turing">
 </p>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-</p>
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
