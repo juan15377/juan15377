@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Juego de la Vida como Fondo</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="content">
-    <h1>Bienvenido a mi sitio</h1>
+    <h1>Juan de Jesus Venegas Flores</h1>
     <p>Este es mi pagina de github</p>
   </div>
 
@@ -97,3 +96,8 @@ align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalv
     alt="Python">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/juan15377/juan15377/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
