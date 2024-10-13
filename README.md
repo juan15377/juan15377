@@ -16,15 +16,13 @@
 
 <!-- Imagen decorativa de Github -->
 
-
-<ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; align-items: center;">
+<ul style="list-style-type: none; padding: 0; display: flex; flex-direction: row; align-items: center;">
   <li>🔭 I’m currently working on: Soy Estudiante</li>
   <li>🌱 I’m currently learning: Python, Julia, and Machine Learning</li>
   <li>👯 I’m looking to collaborate on: Projects</li>
   <li>💬 Ask me about: Rust, Linux, and Systems</li>
   <li>⚡ Fun fact: I like to [insert your fun fact here]</li>
 </ul>
-
 <!-- Animación de texto -->
 <p align="center">
   <a href="https://julialang.org/assets/infra/onlinestats.gif">
