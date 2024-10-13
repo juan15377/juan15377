@@ -17,6 +17,11 @@
 </body>
 </html>
 
+<img 
+align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif"/>
+
+
+
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Actuary;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -29,9 +34,9 @@
 <!-- STACK -->
 
   <!-- Languages -->
-  </br>
-  <h3>Languages and tools</h3>
-  <img
+<h3>Languages and tools</h3>
+<div style="display: flex-wrap; align-items: center; gap: 5px;">
+<img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     width="60px"
     alt="Python">
@@ -82,6 +87,7 @@
     width="60px"
     alt="GitHub">
     &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 </br>
   <h3>Libraries and frameworks</h3>
@@ -90,3 +96,4 @@
     width="60px"
     alt="Python">
     &nbsp;&nbsp;&nbsp;&nbsp;
+
