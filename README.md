@@ -3,7 +3,7 @@
 <!-- Badge de visitas y botón de seguimiento de Github -->
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Juan.Juan" alt="Profile views">
-  <a href="https://github.com/juan5377"><img src="https://img.shields.io/github/followers/Juan?label=Follow&style=social" alt="Github followers"></a>
+  <a href="https://github.com/juan15377"><img src="https://img.shields.io/github/followers/Juan?label=Follow&style=social" alt="Github followers"></a>
 </p>
 
 <!-- Breve introducción -->
