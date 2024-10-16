@@ -1,10 +1,5 @@
 <h1 align="center"> Hello, I'm Juan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> </h1>
 
-<!-- Badge de visitas y botón de seguimiento de Github -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Juan.Juan" alt="Profile views">
-  <a href="https://github.com/juan15377"><img src="https://img.shields.io/github/followers/Juan?label=Follow&style=social" alt="Github followers"></a>
-</p>
 
 <!-- Breve introducción -->
 <div align="center" style="font-size: 20px;">
@@ -60,4 +55,6 @@
   <a href="https://instagram.com/juan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/juan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
   <a href="https://twitter.com/juan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
+</p> 
+
+
