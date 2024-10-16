@@ -16,10 +16,10 @@
 
 <ul style="list-style-type: none; padding: 0;">
   <li>🔭 I’m currently working on: Student projects</li>
-  <li>🌱 I’m currently learning: Python, Julia, and Machine Learning</li>
-  <li>👯 I’m looking to collaborate on: Exciting projects</li>
-  <li>💬 Ask me about: Rust, Linux, and System Development</li>
-  <li>⚡ Fun fact: I love creating efficient solutions!</li>
+  <li>🌱 I’m currently learning: Rust, Linux, and System Development</li>
+  <li>👯 I’m looking to collaborate on:Exciting projects</li>
+  <li>💬 Ask me about: Python, Julia, and Machine Learning</li>
+  <li>⚡ Fun fact: I love to coding!</li>
 </ul>
 
 <!-- Animación de texto -->
