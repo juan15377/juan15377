@@ -17,6 +17,16 @@
   <li>⚡ Fun fact: I love to coding!</li>
 </ul>
 
+#
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juan15377&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan15377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+
+
 <!-- Animación de texto -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+;Data+Science;Actuary;Programming;Math;Statistics..<3" alt="Typing SVG">
@@ -30,7 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="45px" alt="R">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="45px" alt="Rust">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45px" alt="Linux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45px" alt="CSS3">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45px" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45px" alt="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="45px" alt="VS Code">
@@ -45,6 +54,8 @@
   <img src="https://raw.githubusercontent.com/numpy/numpy/83c34d57e26e25f8ec69995bc2228f07ff21efab/branding/logo/logomark/numpylogoicon.svg" width="45px" alt="Numpy">
   <img src="https://avatars.githubusercontent.com/u/26261527?s=48&v=4" width="45px" alt="Turing">
   <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="45px" alt="Bayesian Models">
+  
+
 </div>
 
 <!-- CONNECT WITH ME -->
@@ -55,3 +66,8 @@
 </p> 
 
 
+###
+
+<img src="https://raw.githubusercontent.com/juan15377/juan15377/output/snake.svg" alt="Snake animation" />
+
+###
