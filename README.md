@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Juan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> </h1>
+<h1 align="center"> Hello, I'm Juan  </h1>
 
 
 <!-- Breve introducción -->
@@ -7,14 +7,14 @@
 </div>
 
 <!-- Sección About Me -->
-<h2> About Me </h2>
+<h2>About Me</h2>
 
 <ul style="list-style-type: none; padding: 0;">
-  <li>🔭 I’m currently working on: Student projects</li>
-  <li>🌱 I’m currently learning: Data Science, Julia</li>
-  <li>👯 I’m looking to collaborate on:Exciting projects</li>
-  <li>💬 Ask me about: Python, Julia, and Machine Learning</li>
-  <li>⚡ Fun fact: I love to coding!</li>
+  <li>🔭 I’m currently working on: <strong>Student projects</strong></li>
+  <li>🌱 I’m currently learning: <strong>Data Science, Julia and Python</strong></li>
+  <li>👯 I’m looking to collaborate on: <strong>Exciting projects</strong></li>
+  <li>💬 Ask me about: <strong>Python, Julia, and Machine Learning</strong></li>
+  <li>⚡ Fun fact: <strong>I love coding!</strong></li>
 </ul>
 
 #
@@ -24,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan15377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+#
 
 <!-- STACK -->
 <h3 align="left">💻 Languages and Tools</h3>
@@ -39,6 +40,8 @@
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" width="45px" alt="GitHub">
 </div>
 
+#
+
 <!-- LIBRARIES AND FRAMEWORKS -->
 <h3 align="left">🛠 Libraries and Frameworks</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -49,6 +52,7 @@
   <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="45px" alt="Bayesian Models">
 
 
+#
 </div>
 
 <!-- CONNECT WITH ME -->
@@ -62,6 +66,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juan15377&label=Profile%20views&color=0e75b6&style=flat" alt="juan15377" />
+</p>
 
 
 
