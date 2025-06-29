@@ -3,7 +3,7 @@
 
 <!-- Breve introducción -->
 <div align="center" style="font-size: 20px;">
-  Hi! I'm an actuary. Thank you for taking the time to view my GitHub profile! 😊
+  Hi! I'm an actuary. Thank you for taking the time to view my GitHub profile!
 </div>
 
 <!-- Sección About Me -->
@@ -11,7 +11,7 @@
 
 <ul style="list-style-type: none; padding: 0;">
   <li>🔭 I’m currently working on: Student projects</li>
-  <li>🌱 I’m currently learning: Rust, Linux, and System Development</li>
+  <li>🌱 I’m currently learning: Data Science, Julia</li>
   <li>👯 I’m looking to collaborate on:Exciting projects</li>
   <li>💬 Ask me about: Python, Julia, and Machine Learning</li>
   <li>⚡ Fun fact: I love to coding!</li>
@@ -24,13 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan15377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
-
-<!-- Animación de texto -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+;Data+Science;Actuary;Programming;Math;Statistics..<3" alt="Typing SVG">
-</p>
 
 <!-- STACK -->
 <h3 align="left">💻 Languages and Tools</h3>
@@ -61,15 +54,14 @@
 <!-- CONNECT WITH ME -->
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/venegas-flores-juan-0a9910213/"target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/venegas-flores-juan-0a9910213/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:juan1092jesus543@gmail.com" target="_blank">
+    <img align="center" src="https://imgs.search.brave.com/Bnb4HfR5pPTgjOPDZPQW5ASq1q5FjaAOBpjVldgw_7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMjIv/NDg0LzUwOC9zbWFs/bC9nb29nbGUtbWFp/bC1nbWFpbC1pY29u/LWxvZ28tc3ltYm9s/LWZyZWUtcG5nLnBu/Zw" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
-</p> 
 
 
-###
-
-![Snake animation](https://github.com/juan15377/juan15377/blob/output/snake.svg?sanitize=true)
-
-
-###
 
