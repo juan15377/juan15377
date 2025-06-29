@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/numpy/numpy/83c34d57e26e25f8ec69995bc2228f07ff21efab/branding/logo/logomark/numpylogoicon.svg" width="45px" alt="Numpy">
   <img src="https://avatars.githubusercontent.com/u/26261527?s=48&v=4" width="45px" alt="Turing">
   <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="45px" alt="Bayesian Models">
-  
+
 
 </div>
 
@@ -68,6 +68,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juan15377/juan15377/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/juan15377/juan15377/blob/output/snake.svg?sanitize=true)
+
 
 ###
+
